@@ -1,0 +1,30 @@
+2020-10-11/19:01:22		BadRaw directory deleted before starting validation!!!
+2020-10-11/19:01:22		GoodRaw directory deleted successfully!!!
+2020-10-11/19:02:01		GoodRaw directory deleted successfully!!!
+2020-10-11/19:02:01		Bad files moved to archive
+2020-10-11/19:02:01		Bad Raw Data Folder Deleted successfully!!
+2020-10-11/23:47:26		GoodRaw directory deleted successfully!!!
+2020-10-11/23:47:26		Bad files moved to archive
+2020-10-11/23:47:26		Bad Raw Data Folder Deleted successfully!!
+2020-10-11/23:50:05		GoodRaw directory deleted successfully!!!
+2020-10-11/23:50:05		Bad files moved to archive
+2020-10-11/23:50:05		Bad Raw Data Folder Deleted successfully!!
+2020-10-11/23:51:26		BadRaw directory deleted before starting validation!!!
+2020-10-11/23:51:26		GoodRaw directory deleted successfully!!!
+2020-10-11/23:53:21		BadRaw directory deleted before starting validation!!!
+2020-10-11/23:53:21		GoodRaw directory deleted successfully!!!
+2020-10-11/23:54:10		GoodRaw directory deleted successfully!!!
+2020-10-11/23:54:10		Bad files moved to archive
+2020-10-11/23:54:10		Bad Raw Data Folder Deleted successfully!!
+2020-10-12/00:21:17		GoodRaw directory deleted successfully!!!
+2020-10-12/00:21:17		Bad files moved to archive
+2020-10-12/00:21:17		Bad Raw Data Folder Deleted successfully!!
+2020-10-12/00:23:25		GoodRaw directory deleted successfully!!!
+2020-10-12/00:23:25		Bad files moved to archive
+2020-10-12/00:23:25		Bad Raw Data Folder Deleted successfully!!
+2020-10-12/00:28:44		GoodRaw directory deleted successfully!!!
+2020-10-12/00:28:44		Bad files moved to archive
+2020-10-12/00:28:44		Bad Raw Data Folder Deleted successfully!!
+2020-10-12/00:33:50		GoodRaw directory deleted successfully!!!
+2020-10-12/00:33:50		Bad files moved to archive
+2020-10-12/00:33:50		Bad Raw Data Folder Deleted successfully!!
